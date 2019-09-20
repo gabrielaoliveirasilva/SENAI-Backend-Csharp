@@ -6,27 +6,12 @@ namespace Aula4_2
     {
         static void Main(string[] args)
         {
-            
-            string[] series1 = new string[10];
-            string[] series2 = new string[10];
+            int[] vetor = new int[10];
 
-            for(int i = 0; i <= 9; i++){
-
-                Console.Write("Digite o nome de uma série: ");
-                series1[i] = Console.ReadLine();
-
+            for(int cont = 0; cont <10; cont++){
+                Console.WriteLine("Digite um valor");
+                vetor[cont] = int.Parse(Console.ReadLine() );
             }
-
-            for(int i = 0; i <= 9; i++){
-
-                series2[i] = series1[i];
-
-            }
-
-            for(int i = 0; i <= 9; i++){
-                Console.WriteLine(series2[i]);
-            }
-
 
         }
     }
