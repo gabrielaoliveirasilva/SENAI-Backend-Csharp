@@ -6,9 +6,14 @@ namespace Aula3ex1
     {
         static void Main(string[] args)
         {
-            // LAÇO FOR 
-            for (int cont = 1; cont <= 100; cont++){
-                Console.WriteLine( Math.Pow(cont,3) );
+            /* 
+                Elabore um algoritmo que apresente 
+                os números inteiros de 1 a 100 
+                elevados ao cubo (x³). 
+            */
+
+            for(int cont = 1 ; cont <= 100 ; cont++){
+                Console.WriteLine( Math.Pow(cont, 3) );
             }
 
 
