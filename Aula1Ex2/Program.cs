@@ -6,8 +6,10 @@ namespace Aula1Ex2
     {
         static void Main(string[] args)
         {
-          
+          {
+              
+          }
 
+            }
         }
     }
-}

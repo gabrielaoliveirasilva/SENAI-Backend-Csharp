@@ -1,0 +1,4 @@
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula3ex5\obj\Debug\netcoreapp2.2\Aula3ex5.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula3ex5\obj\Debug\netcoreapp2.2\Aula3ex5.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula3ex5\obj\Debug\netcoreapp2.2\Aula3ex5.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula3ex5\obj\Debug\netcoreapp2.2\Aula3ex5.AssemblyInfo.cs

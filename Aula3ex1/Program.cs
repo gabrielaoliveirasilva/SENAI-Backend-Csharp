@@ -11,7 +11,7 @@ namespace Aula3ex1
                 Console.WriteLine( Math.Pow(cont,3) );
             }
 
-            
+
 
         }
     }

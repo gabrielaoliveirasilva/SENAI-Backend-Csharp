@@ -6,59 +6,27 @@ namespace Aula1
     {
         static void Main(string[] args)
         {
-        
-            // Somente declaramos, sem atribuir valor
-            int num1;
+            {
+            /*
+                Elabore um algoritmo que mostre o resultado da tabuada de um número inteiro dado
+                pelo usuário. O formato deve ser apresentado na forma: Exemplo, para o número 2:
+                2 X 1 = 2
+                2 X 2 = 4
+                (...)
+                2 X 10 = 20
+            */
 
-            // Declaramos atribuindo um valor
-            int num2 = 5;
+            int valor;
 
-            // Declaramos diversas variáveis de mesmo tipo
-            int num3 , num4, num5 = 7;
+            Console.WriteLine("Digite um número inteiro: ");
+            valor = int.Parse( Console.ReadLine() );
 
-            // Variável do tipo decimal (real)
-            float media;
+            // Função para limpar as linhas de console
+            Console.Clear(); 
 
-            // Variável do tipo lógico (booleana)
-            bool resultado = false;
-
-            // Variável do tipo texto (caracteres)
-            string nomeAluno;
-
-
-            // Quebre a linha
-            Console.WriteLine();
-
-            // Continua escrevendo na mesma linha
-            Console.WriteLine("Bem vindos à nossa prieira aplicação!");
-
-            // Continua escrevendo na mesma linha
-            Console.Write("Digite");
-            Console.Write("seu nome: ");
-
-            // Capturo o dado digitado pelo usuário e salvo na variável
-            nomeAluno =  Console.ReadLine();
-
-            // Concatenação
-            Console.WriteLine(nomeAluno + ", Agora digite sua prmeira nota:");
-
-            // Converto o texto capturado para o tipo inteiro
-            num3 = int.Parse( Console.ReadLine()  );
-
-            // Interpolação
-            Console.WriteLine( $"Sua primeira nota é {num3} ");
-
-            Console.WriteLine("Digite sua segunda nota :");
-            num4 = int.Parse( Console.ReadLine()  );
-            
-            Console.WriteLine("Digite sua terceira nota :");
-            num5 = int.Parse( Console.ReadLine()  );
-
-            media = (num3 + num4 + num5) / 3;
-
-            Console.WriteLine("Sua média é: " + media);
-
-
+            for(int cont = 1; cont <= 10 ; cont++){
+                Console.WriteLine($"{valor} x {cont} = {valor*cont} ");
+                }
+            }
         }
     }
-}
