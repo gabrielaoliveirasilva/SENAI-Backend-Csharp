@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\bin\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\bin\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\bin\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\bin\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.dll
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\bin\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.pdb
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\obj\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\obj\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\obj\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\obj\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\obj\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.dll
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\Aula13-Poo-Listas-Construtor\obj\Debug\netcoreapp2.2\Aula13-Poo-Listas-Construtor.pdb
